@@ -5,7 +5,6 @@ public class Main {
 
         Student student = new Student(); // Student ist großgeschrieben, weil komplexer Datentyp
 
-
         student.alter = 25;
         student.studiengang = "Informatik";
         student.semster = 35;
